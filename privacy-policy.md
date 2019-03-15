@@ -3,6 +3,8 @@ published: true
 title: Privacy Policy
 layout: page
 ---
+NO PRIVACY
+
 The Design 4 Democracy Coalition takes seriously the privacy of its website visitors, program participants, donors, supporters and others who provide personal data in connection with the Coalition.   These individuals have the right to know the type of information is collected, why it is collected, how it is protected and used and the circumstances under which it may be deleted or disclosed, as well as the right to consent to the use of this data. This Privacy Policy is posted on Design 4 Democracy’s homepage and at every point where personal data may be requested or collected.
 
 THE INFORMATION WE COLLECT AND HOW IT IS GATHERED AND USED:
